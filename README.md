@@ -22,8 +22,8 @@ Made on Go using library pion/turn
     - ```go build .```
 - And now you can run it with instructions from above / И теперь вы можете запустить его с инструкциями выше
 
-[**Made for SoChat Server / Сделано для SoChat Server**](https://github.com/yomirein/SoChatServer)
+[**Made for SoChat Server / Сделано для SoChat Server**](https://github.com/So-Chat/SoChatServer)
 
 ## License - Лицензия
-- **This project is licensed under the [MIT License](https://github.com/So-Chat/SoTurn/blob/master/LICENSE)** 
-- **Этот проект находится распространяется под [лицензией MIT](https://github.com/So-Chat/SoTurn/blob/master/LICENSE)**
+- **This project is licensed under the [MIT License](https://github.com/So-Chat/SoTurn/blob/main/LICENSE)** 
+- **Этот проект находится распространяется под [лицензией MIT](https://github.com/So-Chat/SoTurn/blob/main/LICENSE)**
